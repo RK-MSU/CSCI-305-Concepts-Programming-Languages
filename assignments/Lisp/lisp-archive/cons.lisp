@@ -1,0 +1,6 @@
+(write (cons 3 1))
+(terpri)
+;;(write (cons 1 (cons 2 (cons 3 nil))))
+;;(terpri)
+;;(write(cons '(1 2 4) 4))
+(write(list 1 2 4 4))

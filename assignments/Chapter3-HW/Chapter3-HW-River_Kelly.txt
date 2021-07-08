@@ -1,0 +1,15 @@
+- River Kelly
+- Chapter 3 Homework
+
+1.a) Java switch statement
+
+	<switch_stmt> => switch(<logic_expr>) { case <literal>: <stmt_list> {case <literal>: <stmt_list>} [default: <stmt_list>] }
+
+
+1.b) Python while statement, just the definition line
+	
+	<while_stmt> => while <logic_expr> :
+						<stmt_list>
+
+
+2. Rewrite the following BNF to give + precedence over * and force + to be right associative.
